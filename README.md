@@ -1,6 +1,6 @@
 # SensuAlarmCallback Plugin for Graylog
 
-[![Build Status](https://travis-ci.org/cvtienhoven/graylog-plugin-sensu.svg?branch=master)](https://travis-ci.org/cvtienhoven/graylog-plugin-sensu)
+[![Build Status](https://travis-ci.org/cvtienhoven/graylog-plugin-nexmo.svg?branch=master)](https://travis-ci.org/cvtienhoven/graylog-plugin-nexmo)
 
 
 **Required Graylog version:** 2.0 and later
@@ -11,7 +11,7 @@ This plugin enables you to call the Nexmo SMS API.
 
 ## Installation
 
-[Download the plugin](https://github.com/https://github.com/cvtienhoven/graylog-plugin-sensu.git/releases)
+[Download the plugin](https://github.com/https://github.com/cvtienhoven/graylog-plugin-nexmo.git/releases)
 and place the `.jar` file in your Graylog plugin directory. The plugin directory
 is the `plugins/` folder relative from your `graylog-server` directory by default
 and can be configured in your `graylog.conf` file.
