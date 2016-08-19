@@ -29,13 +29,12 @@ public class NexmoAlarmCallbackMetaData implements PluginMetaData {
 
     @Override
     public URI getURL() {
-        // TODO Insert correct plugin website
         return URI.create("https://www.graylog.org/");
     }
 
     @Override
     public Version getVersion() {
-        return new Version(1, 0, 0);
+        return new Version(1, 0, 2);
     }
 
     @Override
