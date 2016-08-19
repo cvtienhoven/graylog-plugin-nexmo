@@ -1,10 +1,7 @@
 package org.graylog;
 
 
-import java.net.URI;
 import java.util.Map;
-
-
 
 import org.graylog2.plugin.alarms.AlertCondition.CheckResult;
 import org.graylog2.plugin.alarms.callbacks.AlarmCallback;
