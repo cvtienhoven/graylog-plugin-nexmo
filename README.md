@@ -1,4 +1,4 @@
-# SensuAlarmCallback Plugin for Graylog
+# NexmoAlarmCallback Plugin for Graylog
 
 [![Build Status](https://travis-ci.org/cvtienhoven/graylog-plugin-nexmo.svg?branch=master)](https://travis-ci.org/cvtienhoven/graylog-plugin-nexmo)
 
